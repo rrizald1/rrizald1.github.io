@@ -277,15 +277,7 @@ section .main-body {
 }
 .projects-fig img {
   max-width: 100%;
-  width: 450px;
+  width: 650px;
   height: auto;
   border-radius: 4px;
-}
-
-#projects img {
-  display: block;
-  max-width: 100%;
-  width: 450px;
-  height: auto;
-  margin: 1rem auto 1.5rem;
 }
