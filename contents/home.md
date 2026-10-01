@@ -9,7 +9,7 @@ I am currently a fast-track student continuing my Master's degree in Astronomy a
 Email: rrizaldi.astro@gmail.com
 
 #### Education
-M.Sc., Astronomy, Institut Teknologi Bandung, 2025-2026.\\
+M.Sc., Astronomy, Institut Teknologi Bandung, 2025-2026.\
 B.Sc., Astronomy, Institut Teknologi Bandung, 2021—2025.
 
 #### Research Interests
