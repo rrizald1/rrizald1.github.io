@@ -270,3 +270,14 @@ section .main-body {
 #projects h4:first-of-type {
   margin-top: 2.5rem;
 }
+
+.projects-fig {
+  margin: 1rem auto 1.5rem;
+  text-align: center;
+}
+.projects-fig img {
+  max-width: 100%;
+  width: 600px;
+  height: auto;
+  border-radius: 4px;
+}
