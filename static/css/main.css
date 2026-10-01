@@ -263,7 +263,7 @@ section .main-body {
     }
 }
 
-#projects-img,
+#projects img,
 #projects-figure {
   display: block;
   margin: 1rem 0 1.5rem 0;   /* 0 di kiri-kanan = rata kiri */
