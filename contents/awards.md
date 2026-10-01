@@ -1,5 +1,5 @@
 
-- 2025--2026, Ganesha Talent Assistantship, ITB.
+- 2025—2026, Ganesha Talent Assistantship, ITB.
 
 - 2024, Finalist of the 9th Mission Idea Contest: to the Moon Preliminary Workshop in Stellenbosch, South Africa.
 
