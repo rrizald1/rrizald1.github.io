@@ -12,6 +12,10 @@ Over time, the gravitational pull of the Milky Way Galaxy gradually draws stars 
 
 #### Membership of Open Clusters and Their Tidal Tails
 
+<figure class="projects-fig">
+  <img src="static/assets/img/research/analisis1-1.png" alt="Membership of open clusters">
+</figure>
+
 Before we can study a cluster, we need to know exactly which stars belong to it. Cluster members are mixed with many unrelated stars in the same region of the sky, and even misidentifying just a few stars can give us the wrong estimates of the cluster's age, metallicity, distance, or motion.
 
 This problem is significantly more difficult in the case of tidal tails. The stars within these tails are few in number and spread across a vast area, making them easily blend in with surrounding stars. Newly discovered clusters also present unique challenges, as the information available about them remains very limited. Improved methods for identifying cluster members and tidal tails will help us make optimal use of Gaia data and understand how star clusters gradually disintegrate and merge into the Milky Way Galaxy.
