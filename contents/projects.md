@@ -1,3 +1,4 @@
+![Kinematic signatures in open clusters](static/assets/img/research/pm_c.png)
 
 #### Kinematic Signatures in Open Clusters
 
