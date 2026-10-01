@@ -18,6 +18,9 @@ sections:
     nav: HOME
     title: Rafli Rizaldi
     href: '#page-top' # Default to '#<id>' if not specified
+  - id: projects
+    nav: PROJECTS
+    title: RESEARCH PROJECTS
   - id: publications
     nav: PUBLICATIONS
     title: PUBLICATIONS
