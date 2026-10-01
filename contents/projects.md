@@ -24,7 +24,7 @@ This problem is significantly more difficult in the case of tidal tails. The sta
 #### INAGLENS: Strong Gravitational Lens Modelling
 
 <figure class="projects-fig">
-  <img src="static/assets/img/research/inaglens_fig.png" alt="Membership of open clusters">
+  <img src="static/assets/img/research/inaglens_fig.png" alt="INAGLENS">
 </figure>
 
 Massive galaxies can bend light like a lens. When such a galaxy aligns almost perfectly with a more distant galaxy behind it, light from the distant galaxy is stretched into arcs, rings, or multiple images. These rare cosmic lenses allow us to measure the mass of the foreground galaxy, including its invisible dark matter, while simultaneously magnifying the distant galaxy for clearer observation.
