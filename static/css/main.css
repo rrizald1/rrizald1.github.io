@@ -263,21 +263,13 @@ section .main-body {
     }
 }
 
-#projects h4 {
-  margin-top: 2.5rem;
-  margin-bottom: 0.75rem;
+#projects img,
+#projects figure {
+  display: block;
+  margin: 1rem 0 1.5rem 0;   /* 0 di kiri-kanan = rata kiri */
 }
-#projects h4:first-of-type {
-  margin-top: 2.5rem;
-}
-
-.projects-fig {
-  margin: 1rem auto 1.5rem;
-  text-align: center;
-}
-.projects-fig img {
-  max-width: 100%;
-  width: 650px;
+#projects img {
+  width: 1000px;             /* sedikit lebih besar dari sekarang */
+  max-width: 100%;           /* tetap mengecil otomatis di HP */
   height: auto;
-  border-radius: 4px;
 }
