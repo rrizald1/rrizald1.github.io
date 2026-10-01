@@ -263,6 +263,14 @@ section .main-body {
     }
 }
 
+#projects h4 {
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+}
+#projects h4:first-of-type {
+  margin-top: 1.5;
+}
+
 #projects img,
 #projects figure {
   display: block;
