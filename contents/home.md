@@ -13,4 +13,4 @@ M.Sc., Astronomy, Institut Teknologi Bandung, 2025—present.\
 B.Sc., Astronomy, Institut Teknologi Bandung, 2021—2025.
 
 #### Research Interests
-Stellar Cluster; Stellar Kinematics; Gaia Astrometry; Machine Learning 
+Stellar Cluster; Stellar Kinematics; Gaia Astrometry; Computational Astrophysics; Machine Learning 
