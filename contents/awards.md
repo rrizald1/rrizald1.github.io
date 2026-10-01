@@ -1,12 +1,10 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 2025--2026, Ganesha Talent Assistantship, ITB.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- 2024, Finalist of the 9th Mission Idea Contest: to the Moon Preliminary Workshop in Stellenbosch, South Africa.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- 2024, Scholarship awardee of POSCO Asia Fellowship for Asian Universities.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+- 2024, Dean's List, Faculty of Mathematics and Natural Sciences, ITB.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- 2023, Dean's List, Faculty of Mathematics and Natural Sciences, ITB.
