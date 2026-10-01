@@ -1,4 +1,3 @@
-![Kinematic signatures in open clusters](static/assets/img/research/pm_c.png)
 <figure class="projects-fig">
   <img src="static/assets/img/research/pm_c.png" alt="Kinematic signatures in open clusters">
 </figure>
