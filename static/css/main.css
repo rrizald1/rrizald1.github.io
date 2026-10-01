@@ -263,12 +263,12 @@ section .main-body {
     }
 }
 
-#projects img,
-#projects figure {
+#projects-img,
+#projects-figure {
   display: block;
   margin: 1rem 0 1.5rem 0;   /* 0 di kiri-kanan = rata kiri */
 }
-#projects img {
+#projects-img {
   width: 1000px;             /* sedikit lebih besar dari sekarang */
   max-width: 100%;           /* tetap mengecil otomatis di HP */
   height: auto;
