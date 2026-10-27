@@ -29,3 +29,6 @@ sections:
     nav: AWARDS
     title: AWARDS
     icon: bi-award-fill
+  - id: cv
+    nav: CV
+    href: 'static/assets/Rafli_Rizaldi_CV.pdf'
